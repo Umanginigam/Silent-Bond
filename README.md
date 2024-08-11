@@ -1,6 +1,6 @@
-# Sign Language Detection
+                                                          # Sign Language Detection
 
-![image](https://github.com/user-attachments/assets/a268d4dc-46bc-477a-9268-4945eede3136)
+                                ![image](https://github.com/user-attachments/assets/a268d4dc-46bc-477a-9268-4945eede3136)
 
 
 Overview
